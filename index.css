@@ -33,3 +33,8 @@ ul{
     background-color: rgb(88, 107, 88);
     color: white;
 }
+
+.logo{
+    position: absolute;
+    left: 9px;
+}
