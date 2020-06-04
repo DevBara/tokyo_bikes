@@ -38,3 +38,34 @@ ul{
     position: absolute;
     left: 9px;
 }
+
+.homeImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.imgText{
+    text-align: ;
+}
+
+.productsContainer{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.bikes{
+    width: 350px;
+    height: 350px;
+}
+
+.productsContainerTwo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+
+}
